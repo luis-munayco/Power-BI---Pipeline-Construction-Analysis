@@ -1,5 +1,5 @@
 # Pipeline-Construction-Analysis
-This is a Data Analysis Report for a Pipeline construction project. Data was given in different Excel files, having a 100K+ dataset. The main dashboard is an executive summary, which tracks business KPIs (Total Cost, Total HH (Work Hours)) and helps to have a overview of the project. Together with indicators, a breakdown of the cost projects in differents categories is presented to give more detail to the user. Finally, evolution of cost through the life project is presented, as well as HH total.
+This is a Data Analysis Power BI Report for a Pipeline construction project. Data was given in different Excel files, having a 100K+ dataset. The main dashboard is an executive summary, which tracks business KPIs (Total Cost, Total HH (Work Hours)) and helps to have a overview of the project. Together with indicators, a breakdown of the cost projects in differents categories is presented to give more detail to the user. Finally, evolution of cost through the life project is presented, as well as HH total.
 
 Deliverables Reports/Dashboards Features:
 - Track KPIs (Total Cost, Total HH)
