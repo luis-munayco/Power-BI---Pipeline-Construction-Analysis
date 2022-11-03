@@ -23,9 +23,3 @@ Main Skills: 1- Data Cleaning / 2- ETL / 3- Data Visualization
   alt="Executive Summary"
   title="Executive Summary"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-<img
-  src="/Images/Pipeline Construction Project.PNG"
-  alt="Construction Project"
-  title="Construction Projec"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
