@@ -17,3 +17,9 @@ Objectives and tasks:
 Software: 1- Power BI/ 2- Power BI Query / 3- Microsoft Excel
 
 Main Skills: 1- Data Cleaning / 2- ETL / 3- Data Visualization
+
+<img
+  src="/Images/PCP_Executive Summary.PNG"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
